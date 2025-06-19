@@ -1,0 +1,54 @@
+{
+  "lastUpdated": "2025-06-17T03:34:05Z",
+  "conflictStatus": {
+    "level": "critical",
+    "description": "Direct military exchange ongoing",
+    "daysActive": 4
+  },
+  "metrics": {
+    "totalCasualties": 17,
+    "israeliCasualties": 11,
+    "iranianCasualties": 6,
+    "strikesBy": {
+      "israel": 15,
+      "iran": 8
+    },
+    "locationsTargeted": {
+      "inIran": ["Tehran", "Air Defense Sites", "Energy Infrastructure", "Military Facilities"],
+      "inIsrael": ["Haifa", "Tel Aviv", "Northern Cities"]
+    },
+    "missileInterceptions": 23,
+    "infrastructureDamage": {
+      "iran": ["Energy Grid", "Military Bases", "State TV Building"],
+      "israel": ["Port Infrastructure", "Civilian Areas"]
+    }
+  },
+  "escalationIndicators": {
+    "diplomaticTension": "very-high",
+    "militaryReadiness": "maximum",
+    "civilianEvacuations": "active",
+    "internationalConcern": "critical"
+  },
+  "recentDevelopments": [
+    {
+      "time": "2025-06-17T02:30:00Z",
+      "event": "Israeli air defense intercepts Iranian drone swarm over northern border",
+      "impact": "medium"
+    },
+    {
+      "time": "2025-06-17T01:15:00Z",
+      "event": "Iran strikes Israeli energy facility near Tel Aviv",
+      "impact": "high"
+    },
+    {
+      "time": "2025-06-16T23:45:00Z",
+      "event": "Israel targets Iranian command center in Tehran suburbs",
+      "impact": "high"
+    },
+    {
+      "time": "2025-06-16T22:20:00Z",
+      "event": "Emergency UN Security Council session called",
+      "impact": "medium"
+    }
+  ]
+}

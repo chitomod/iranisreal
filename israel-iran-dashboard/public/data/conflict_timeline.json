@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "date": "2024-10-26",
+    "title": "Israel's First Overt Attack on Iran",
+    "description": "Israel conducts its first overt attack on Iran, targeting air defense systems and missile program sites",
+    "type": "military_action",
+    "severity": "high",
+    "location": "Iran - Air Defense Sites",
+    "casualties": 0,
+    "source": "AP News"
+  },
+  {
+    "id": "2",
+    "date": "2025-04-30",
+    "title": "Iran Executes Alleged Mossad Agent",
+    "description": "Iran executes a man it said worked for Israel's Mossad foreign intelligence agency",
+    "type": "execution",
+    "severity": "medium",
+    "location": "Iran",
+    "casualties": 1,
+    "source": "AP News"
+  },
+  {
+    "id": "3",
+    "date": "2025-06-12",
+    "title": "Conflict Timeline Analysis Published",
+    "description": "The New York Times reports on the history of the conflict, noting the significance of the October 7 attacks as a catalyst",
+    "type": "analysis",
+    "severity": "low",
+    "location": "Global",
+    "casualties": 0,
+    "source": "The New York Times"
+  },
+  {
+    "id": "4",
+    "date": "2025-06-13",
+    "title": "Israel Launches Strike Campaign",
+    "description": "Israel launches a series of strikes against Iran, escalating the direct confrontation",
+    "type": "military_action",
+    "severity": "high",
+    "location": "Iran - Multiple Sites",
+    "casualties": 0,
+    "source": "The Economist"
+  },
+  {
+    "id": "5",
+    "date": "2025-06-14",
+    "title": "Critical Infrastructure Targeted",
+    "description": "Israel expands its strike campaign to include critical Iranian energy infrastructure",
+    "type": "military_action",
+    "severity": "critical",
+    "location": "Iran - Energy Infrastructure",
+    "casualties": 0,
+    "source": "Institute for the Study of War"
+  },
+  {
+    "id": "6",
+    "date": "2025-06-15",
+    "title": "Iranian Missile Response",
+    "description": "Iran fires two separate salvos of missiles and drones at Israel, with one striking the port city of Haifa",
+    "type": "military_action",
+    "severity": "critical",
+    "location": "Israel - Haifa",
+    "casualties": 3,
+    "source": "Al Jazeera"
+  },
+  {
+    "id": "7",
+    "date": "2025-06-16",
+    "title": "Fourth Day of Escalation",
+    "description": "The conflict enters its fourth day with continued and broadened attacks from both sides. Iranian missile attacks on Israel kill 8",
+    "type": "military_action",
+    "severity": "critical",
+    "location": "Israel - Tel Aviv, Haifa",
+    "casualties": 8,
+    "source": "CNN, AP News"
+  },
+  {
+    "id": "8",
+    "date": "2025-06-17",
+    "title": "Ongoing Direct Military Exchange",
+    "description": "Direct military exchange continues with Israel claiming aerial superiority over Tehran while Iran maintains missile attacks",
+    "type": "military_action",
+    "severity": "critical",
+    "location": "Iran - Tehran; Israel - Multiple Cities",
+    "casualties": 5,
+    "source": "ABC News, NPR"
+  }
+]

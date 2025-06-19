@@ -1,0 +1,112 @@
+{
+  "iran": {
+    "country": "Iran",
+    "capital": {
+      "name": "Tehran",
+      "coordinates": [35.6892, 51.3890],
+      "status": "under-attack",
+      "recentActivity": "Israeli strikes on military facilities and energy infrastructure",
+      "severity": "critical"
+    },
+    "targetedSites": [
+      {
+        "name": "Tehran Air Defense Command",
+        "coordinates": [35.7219, 51.4056],
+        "type": "military",
+        "lastStrike": "2025-06-17T01:30:00Z",
+        "damage": "severe"
+      },
+      {
+        "name": "Energy Infrastructure Hub",
+        "coordinates": [35.6581, 51.4231],
+        "type": "infrastructure",
+        "lastStrike": "2025-06-16T22:15:00Z",
+        "damage": "moderate"
+      },
+      {
+        "name": "Military Command Center",
+        "coordinates": [35.7045, 51.3721],
+        "type": "military",
+        "lastStrike": "2025-06-16T20:45:00Z",
+        "damage": "severe"
+      }
+    ]
+  },
+  "israel": {
+    "country": "Israel",
+    "majorCities": [
+      {
+        "name": "Tel Aviv",
+        "coordinates": [32.0853, 34.7818],
+        "status": "under-attack",
+        "recentActivity": "Iranian missile strikes on port and energy facilities",
+        "severity": "high",
+        "casualties": 5,
+        "lastStrike": "2025-06-17T01:15:00Z"
+      },
+      {
+        "name": "Haifa",
+        "coordinates": [32.7940, 34.9896],
+        "status": "under-attack",
+        "recentActivity": "Direct missile hit on port infrastructure",
+        "severity": "critical",
+        "casualties": 6,
+        "lastStrike": "2025-06-15T18:30:00Z"
+      },
+      {
+        "name": "Jerusalem",
+        "coordinates": [31.7683, 35.2137],
+        "status": "alert",
+        "recentActivity": "High alert status, no direct strikes",
+        "severity": "medium",
+        "casualties": 0
+      }
+    ],
+    "defenseSystems": [
+      {
+        "name": "Iron Dome - Northern Sector",
+        "coordinates": [32.9000, 35.1000],
+        "type": "air-defense",
+        "status": "active",
+        "interceptions": 15
+      },
+      {
+        "name": "Iron Dome - Central Sector",
+        "coordinates": [32.1000, 34.8000],
+        "type": "air-defense",
+        "status": "active",
+        "interceptions": 8
+      }
+    ]
+  },
+  "regionalContext": {
+    "center": [33.2232, 43.6793],
+    "zoom": 6,
+    "countries": [
+      {
+        "name": "Syria",
+        "coordinates": [34.8021, 38.9968],
+        "status": "monitoring",
+        "involvement": "airspace-concerns"
+      },
+      {
+        "name": "Lebanon",
+        "coordinates": [33.8547, 35.8623],
+        "status": "tense",
+        "involvement": "border-security"
+      },
+      {
+        "name": "Jordan",
+        "coordinates": [30.5852, 36.2384],
+        "status": "monitoring",
+        "involvement": "diplomatic-mediation"
+      },
+      {
+        "name": "Iraq",
+        "coordinates": [33.2232, 43.6793],
+        "status": "neutral",
+        "involvement": "airspace-transit"
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "news-1",
+    "title": "Israel Claims Full Aerial Control Over Tehran as Strikes Continue",
+    "summary": "Israeli military sources report maintaining air superiority in Iranian airspace as the conflict enters its fourth day",
+    "source": "ABC News",
+    "publishedAt": "2025-06-17T02:15:00Z",
+    "category": "breaking",
+    "url": "https://abcnews.go.com/international/israel-iran-conflict",
+    "image": "/images/news-aerial-control.jpg",
+    "priority": "critical"
+  },
+  {
+    "id": "news-2",
+    "title": "Iranian Missile Attacks on Israel Kill 8, Injure Dozens",
+    "summary": "Latest Iranian missile salvos target Tel Aviv and Haifa areas, causing significant casualties and infrastructure damage",
+    "source": "AP News",
+    "publishedAt": "2025-06-17T01:45:00Z",
+    "category": "breaking",
+    "url": "https://apnews.com/article/israel-iran-conflict",
+    "image": "/images/news-missile-attack.jpg",
+    "priority": "critical"
+  },
+  {
+    "id": "news-3",
+    "title": "Emergency UN Security Council Session Called as Conflict Escalates",
+    "summary": "International leaders demand immediate ceasefire as Israel-Iran conflict threatens regional stability",
+    "source": "Reuters",
+    "publishedAt": "2025-06-17T00:30:00Z",
+    "category": "diplomatic",
+    "url": "https://reuters.com/world/middle-east/israel-iran",
+    "image": "/images/news-un-session.jpg",
+    "priority": "high"
+  },
+  {
+    "id": "news-4",
+    "title": "Trump Warns Iran to De-Escalate Conflict With Israel",
+    "summary": "US President calls for immediate de-escalation while offering reluctant support to Israel's defensive operations",
+    "source": "TIME",
+    "publishedAt": "2025-06-16T23:15:00Z",
+    "category": "diplomatic",
+    "url": "https://time.com/trump-iran-israel-warning",
+    "image": "/images/news-trump-warning.jpg",
+    "priority": "high"
+  },
+  {
+    "id": "news-5",
+    "title": "Russia Issues Nuclear Warning on Israel-Iran Conflict",
+    "summary": "Moscow expresses serious concerns about potential nuclear escalation as conflict intensifies",
+    "source": "Newsweek",
+    "publishedAt": "2025-06-16T22:45:00Z",
+    "category": "international",
+    "url": "https://newsweek.com/russia-nuclear-warning-israel-iran",
+    "image": "/images/news-nuclear-warning.jpg",
+    "priority": "critical"
+  },
+  {
+    "id": "news-6",
+    "title": "Iron Dome Intercepts 23 Iranian Missiles in Largest Defense Operation",
+    "summary": "Israeli air defense systems work overtime to protect major population centers from Iranian missile barrage",
+    "source": "Jerusalem Post",
+    "publishedAt": "2025-06-16T21:30:00Z",
+    "category": "military",
+    "url": "https://jpost.com/israel-news/iron-dome-defense",
+    "image": "/images/news-iron-dome.jpg",
+    "priority": "high"
+  },
+  {
+    "id": "news-7",
+    "title": "Global Supply Chains Disrupted as Israel-Iran Conflict Affects Oil Prices",
+    "summary": "Energy markets volatile as Middle East conflict threatens shipping routes and oil production",
+    "source": "Bloomberg",
+    "publishedAt": "2025-06-16T20:15:00Z",
+    "category": "economy",
+    "url": "https://bloomberg.com/energy-markets-israel-iran",
+    "image": "/images/news-supply-chains.jpg",
+    "priority": "medium"
+  },
+  {
+    "id": "news-8",
+    "title": "Saudi Arabia Condemns Israeli Strikes as Regional Alliances Shift",
+    "summary": "Kingdom calls for diplomatic resolution while showing signs of improving relations with Iran",
+    "source": "Arab News",
+    "publishedAt": "2025-06-16T19:45:00Z",
+    "category": "regional",
+    "url": "https://arabnews.com/saudi-israel-iran-response",
+    "image": "/images/news-saudi-response.jpg",
+    "priority": "medium"
+  },
+  {
+    "id": "news-9",
+    "title": "Israel Targets Iranian Energy Infrastructure in Expanded Campaign",
+    "summary": "Strategic strikes aim to cripple Iran's energy sector as conflict broadens beyond military targets",
+    "source": "The Guardian",
+    "publishedAt": "2025-06-16T18:20:00Z",
+    "category": "military",
+    "url": "https://theguardian.com/world/israel-iran-energy-strikes",
+    "image": "/images/news-energy-strikes.jpg",
+    "priority": "high"
+  },
+  {
+    "id": "news-10",
+    "title": "Civilian Evacuations Underway in Northern Israel and Tehran Suburbs",
+    "summary": "Authorities order large-scale evacuations as conflict zone expands to populated areas",
+    "source": "CNN",
+    "publishedAt": "2025-06-16T17:50:00Z",
+    "category": "humanitarian",
+    "url": "https://cnn.com/middle-east/israel-iran-evacuations",
+    "image": "/images/news-evacuations.jpg",
+    "priority": "high"
+  }
+]
